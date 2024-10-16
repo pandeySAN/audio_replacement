@@ -2,7 +2,7 @@ import openai
 import os
 
 # Azure OpenAI API Key and Endpoint
-key = "22ec84421ec24230a3638d1b51e3a7dc"
+key = "22ec84*************************"
 url = "https://internshala.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-08-01-preview"
 
 openai.api_type = "azure"
