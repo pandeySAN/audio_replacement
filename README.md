@@ -49,5 +49,3 @@ Text-to-Speech API.
 ??? video_utils.py # Video processing utilities (extract/replace audio)
 ??? README.md # This file
 ```
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
